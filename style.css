@@ -59,7 +59,7 @@ nav{
 	width: 24px;
 }
 .menu:hover{
-	padding: 6px;
+	padding: 8px;
 	background-color: rgba(60,64,67,0.08);
 	outline: none;
     -webkit-border-radius: 50%;
